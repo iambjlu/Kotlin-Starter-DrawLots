@@ -15,5 +15,5 @@ MainActivity2 is a empty Activity, you can do whatever you want.
 
 <br>
 # 螢幕快照 Screenshot
-<img>https://raw.githubusercontent.com/iambjlu/Kotlin-Starter-DrawLots/main/Readme_res/1101002.jpg</img><br>
+<img src="https://raw.githubusercontent.com/iambjlu/Kotlin-Starter-DrawLots/main/Readme_res/1101002.jpg"></img><br>
 
