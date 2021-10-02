@@ -5,9 +5,9 @@ Kotlin Starter Project for practice
 這是我從沒有Kotlin語言基礎開始到撰寫完成的專案。<br>
 This is the project I built from I had no basic knowledge of Kotlin.
 <br><br>
-🌍 繁體中文(zh-TW), English Version is still developing.
-📱 Android 4.2 ↑<br>
-💻 Built on (建置於): Android Studio Arctic Fox (2020.3.1) <br>
+🌍 繁體中文(zh-TW), English Version is still developing.<br>
+📱 Android 4.2 ↑ 🍬<br>
+💻 Built on (建置於): Android Studio Arctic Fox (2020.3.1) 🦊<br>
 🔧 Components used on this project (在此專案使用的元件) : TextView, Button, EditText, Toast, Notification, BottomNavigationView, Intent, etc.<br>
 <br>
 MainActivity2 是一個空白的 Activity ，是一個您可以盡情發揮創意的地方。<br>
