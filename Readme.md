@@ -11,7 +11,10 @@ This is the project I built from I had no basic knowledge of Kotlin.
 <br>
 MainActivity2 是一個空白的 Activity ，是一個您可以盡情發揮創意的地方。<br>
 MainActivity2 is a empty Activity, you can do whatever you want.
+
+English Version is still developing.
+
 <br>
 # 螢幕快照 Screenshot
 <img>https://raw.githubusercontent.com/iambjlu/Kotlin-Starter-DrawLots/main/Readme_res/1101002.jpg</img><br>
-English Version of Screenshot is temporarily unavaliable.
+
