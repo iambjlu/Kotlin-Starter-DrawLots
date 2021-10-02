@@ -8,6 +8,7 @@ This is the project I built from I had no basic knowledge of Kotlin.
 📱 Android 4.2 ↑<br>
 💻 Built on (建置於): Android Studio Arctic Fox (2020.3.1) <br>
 🔧 Components used on this project (在此專案使用的元件) : TextView, Button, EditText, Toast, Notification, BottomNavigationView, Intent, etc.<br>
+<br>
 MainActivity2 是一個空白的 Activity ，是一個您可以盡情發揮創意的地方。<br>
 MainActivity2 is a empty Activity, you can do whatever you want.
 <br>
