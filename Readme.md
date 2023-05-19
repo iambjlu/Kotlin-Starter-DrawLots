@@ -14,6 +14,6 @@ MainActivity2 是一個空白的 Activity ，是一個您可以盡情發揮創�
 MainActivity2 is an empty Activity, you can do whatever you want.
 
 <br>
-# 螢幕快照 Screenshot
+<h1>螢幕快照 Screenshot</h1>
 <img src="https://raw.githubusercontent.com/iambjlu/Kotlin-Starter-DrawLots/main/Readme_res/1101002.jpg"></img><br>
 
