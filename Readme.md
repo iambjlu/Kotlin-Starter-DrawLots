@@ -11,7 +11,7 @@ This is the project I built from I had no basic knowledge of Kotlin.
 🔧 Components used on this project (在此專案使用的元件) : TextView, Button, EditText, Toast, Notification, BottomNavigationView, Intent, etc.<br>
 <br>
 MainActivity2 是一個空白的 Activity ，是一個您可以盡情發揮創意的地方。<br>
-MainActivity2 is a empty Activity, you can do whatever you want.
+MainActivity2 is an empty Activity, you can do whatever you want.
 
 <br>
 # 螢幕快照 Screenshot
